@@ -7,13 +7,13 @@ Appd instrumentaion to monitor tuxedo C++ app using c/c++ sdk.
 2. Update appd config in simpclappd.cpp
 3. Execute build.sh
 
-Pre-requisites:
+**Pre-requisites**:
 1. Install docker
 2. Download the following files to current directory in case it is not present:
 
-  2.a. tuxedo121300_64_Linux_01_x86.zip	from http://www.oracle.com/technetwork/middleware/tuxedo/downloads/index.html
+    2.a. tuxedo121300_64_Linux_01_x86.zip	from http://www.oracle.com/technetwork/middleware/tuxedo/downloads/index.html
 
-  2.b. p22090512_121300_Linux-x86-64.zip 	or whatever the latest Tuxedo rolling patch is from My Oracle Support
+    2.b. p22090512_121300_Linux-x86-64.zip 	or whatever the latest Tuxedo rolling patch is from My Oracle Support
 
 You should end up with a docker image tagged appd/tuxedo
 
