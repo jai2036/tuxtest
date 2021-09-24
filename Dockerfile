@@ -1,6 +1,6 @@
 #
 # Dockerfile for Tuxedo 12.1.3
-# Author: Jayanta Mohanty  / 12-SEP-21
+# Author: Jai  / 12-SEP-21
 #
 # Download the following files to current directory in case it is not present:
 #   tuxedo121300_64_Linux_01_x86.zip	from http://www.oracle.com/technetwork/middleware/tuxedo/downloads/index.html

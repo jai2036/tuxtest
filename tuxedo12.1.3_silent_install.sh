@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #
-# Author: Jayanta M., 12-sep-21
+# Author: Jai, 12-sep-21
 #
 
 CURDIR=`pwd`

@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Created by: Jayanta Mohanty , 8-sep-21
+# Created by: Jai , 8-sep-21
 #
 echo "====================="
 #

@@ -2,7 +2,6 @@
 #
 # Start tlisten in the specified ports on the host's network address
 #
-# Usage:  start_tlisten nlsaddr_port  jmx_port
 #
 #
 HOSTNAME=`hostname`

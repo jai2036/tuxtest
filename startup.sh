@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# Author: Jayanta Mohanty , 8-sep-21
+# Author: Jai , 8-sep-21
 #
 # Usage: source startup.sh
 #
