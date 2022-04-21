@@ -1,5 +1,5 @@
 # Introduction
-Appd instrumentaion to monitor tuxedo C++ app using c/c++ sdk.
+C++ tuxedo client - server app. 
 
 ## How to use
 
